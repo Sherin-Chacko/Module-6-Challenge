@@ -17,12 +17,12 @@ A random set of 2,000 latitudes and longitudes were generated, and an API call w
 
 The following data was retrieved from the API call:
 
-Latitude and longitude
-Maximum temperature
-Percent humidity
-Percent cloudiness
-Wind speed
-Current Weather description
+  Latitude and longitude,
+  Maximum temperature,
+  Percent humidity,
+  Percent cloudiness,
+  Wind speed,
+  Current Weather description
 
 ### 3) VACATION SEARCH:
 Based on traveler’s weather preferences, travelers can identify potential travel destinations and nearby hotels. The map showcases destinations using pop-up markers on a marker layer-map.
