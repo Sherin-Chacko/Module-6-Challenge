@@ -29,6 +29,7 @@ Based on traveler’s weather preferences, travelers can identify potential trav
 
 Sample Travel destination:
 
+<img width="1018" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/91294352/142713650-0a61ec33-39cb-4fdd-912c-19f4c42ba735.png">
 
 
 
