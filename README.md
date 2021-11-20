@@ -30,7 +30,11 @@ Based on traveler’s weather preferences, travelers can identify potential trav
 Sample Travel destination:
 
 
+
+
 ### 4) VACATION ITINERARY:
 Using the Google Directions API, a sample itinerary was created that shows the route between four cities.
+
+<img width="1025" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/91294352/142713598-5765a420-8480-48cc-9652-c14e61fd0a26.png">
 
 
